@@ -9,13 +9,12 @@ Topic: This project investigates the performance of encryption and I/O operation
 
 ## Description of contents 
 The proof of concept and the testing of libraries are included in this branch. This section points to the exact folders and subfolders. <br>
-[Wiki Home](https://git.ecdf.ed.ac.uk/msc-24-25/s2759018/-/wikis/home): The Wiki homepage of the project. <br>
-[Proof-of-Concept](https://git.ecdf.ed.ac.uk/msc-24-25/s2759018/-/tree/main/poc?ref_type=heads): Implementation of AES in CBC mode using [Crypto++](https://github.com/weidai11/cryptopp) integrated with [ADIOS 2](https://adios2.readthedocs.io/en/v2.10.2/) <br>
-[Testing of Libraries](https://git.ecdf.ed.ac.uk/msc-24-25/s2759018/-/tree/main/poc/test-libraries?ref_type=heads): Implementation of AES in CBC mode using different libraries <br>
+[Proof-of-Concept]([https://git.ecdf.ed.ac.uk/msc-24-25/s2759018/-/tree/main/poc?ref_type=heads](https://github.com/iole-bolognesi/Encryption-and-I-O-Performance-in-HPC-Systems/tree/main/poc)): Implementation of AES in CBC mode using [Crypto++](https://github.com/weidai11/cryptopp) integrated with [ADIOS 2](https://adios2.readthedocs.io/en/v2.10.2/) <br>
+[Testing of Libraries]([https://git.ecdf.ed.ac.uk/msc-24-25/s2759018/-/tree/main/poc/test-libraries?ref_type=heads](https://github.com/iole-bolognesi/Encryption-and-I-O-Performance-in-HPC-Systems/tree/main/poc/test-libraries)): Implementation of AES in CBC mode using different libraries <br>
 
 
 ## Important Note on Dataset 
-The experiments conducted and reported in the dissertation report cannot be replicated because the dataset used ([CPSea](https://www.kaggle.com/datasets/ziyiyang180104/cpsea)) was updated on 8 August 2025 and the previous version is not accessible anymore. Although we retain a copy of the dataset, it will not be shared entirely as the license does not provide clear instructions on the copyright of previous dataset versions. We are searching for a replacement dataset. In the meantime, in order to allow code runs, a minor section of the dataset used was pushed to this repository, in the [data](https://git.ecdf.ed.ac.uk/msc-24-25/s2759018/-/tree/main/data?ref_type=heads) folder. <br>
+The experiments conducted and reported in the dissertation report cannot be replicated because the dataset used ([CPSea](https://www.kaggle.com/datasets/ziyiyang180104/cpsea)) was updated on 8 August 2025 and the previous version is not accessible anymore. Although we retain a copy of the dataset, it will not be shared entirely as the license does not provide clear instructions on the copyright of previous dataset versions. We are searching for a replacement dataset. In the meantime, in order to allow code runs, a minor section of the dataset used was pushed to this repository, in the [data]([https://git.ecdf.ed.ac.uk/msc-24-25/s2759018/-/tree/main/data?ref_type=heads](https://github.com/iole-bolognesi/Encryption-and-I-O-Performance-in-HPC-Systems/tree/main/data)) folder. <br>
 
 ## Ethics Assessment 
 
