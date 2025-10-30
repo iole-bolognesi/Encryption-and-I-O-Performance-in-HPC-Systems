@@ -9,8 +9,8 @@ Topic: This project investigates the performance of encryption and I/O operation
 
 ## Description of contents 
 The proof of concept and the testing of libraries are included in this branch. This section points to the exact folders and subfolders. <br>
-[Proof-of-Concept]([https://git.ecdf.ed.ac.uk/msc-24-25/s2759018/-/tree/main/poc?ref_type=heads](https://github.com/iole-bolognesi/Encryption-and-I-O-Performance-in-HPC-Systems/tree/main/poc)): Implementation of AES in CBC mode using [Crypto++](https://github.com/weidai11/cryptopp) integrated with [ADIOS 2](https://adios2.readthedocs.io/en/v2.10.2/) <br>
-[Testing of Libraries]([https://git.ecdf.ed.ac.uk/msc-24-25/s2759018/-/tree/main/poc/test-libraries?ref_type=heads](https://github.com/iole-bolognesi/Encryption-and-I-O-Performance-in-HPC-Systems/tree/main/poc/test-libraries)): Implementation of AES in CBC mode using different libraries <br>
+[Proof-of-Concept](https://github.com/iole-bolognesi/Encryption-and-I-O-Performance-in-HPC-Systems/tree/main/poc): Implementation of AES in CBC mode using [Crypto++](https://github.com/weidai11/cryptopp) integrated with [ADIOS 2](https://adios2.readthedocs.io/en/v2.10.2/) <br>
+[Testing of Libraries](https://github.com/iole-bolognesi/Encryption-and-I-O-Performance-in-HPC-Systems/tree/main/poc/test-libraries): Implementation of AES in CBC mode using different libraries <br>
 
 
 ## Important Note on Dataset 
